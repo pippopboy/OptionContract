@@ -1,0 +1,5 @@
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\OptionContract\bin\Debug\OptionContract.dll
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\OptionContract\bin\Debug\OptionContract.pdb
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\OptionContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\OptionContract\obj\Debug\OptionContract.dll
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\OptionContract\obj\Debug\OptionContract.pdb

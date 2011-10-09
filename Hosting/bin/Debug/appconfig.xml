@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <system.web>
+    <compilation debug="true" />
+    <service name="OptionContract.Option" behaviorConfiguration="OpContract.OptionBehavior">
+      <endpoint address="" binding="WsHttpBinding" contract="OptionContract.IOption" />
+      <identify>
+        <dns value="localhost" />
+      </identify>
+      <host>
+        <baseAddresses>
+          <add baseAddress="http://localhost:8000" />
+        </baseAddresses>
+      </host>
+    </service>
+    <service name="OptionContract.Option1" behaviorConfiguration="OpContract.OptionBehavior">
+      <endpoint address="" binding="WsHttpBinding" contract="OptionContract.IOption1" />
+      <identify>
+        <dns value="localhost" />
+      </identify>
+      <host>
+        <baseAddresses>
+          <add baseAddress="http://localhost:8000" />
+        </baseAddresses>
+      </host>
+    </service>
+  </system.web>
+  <system.serviceModel>
+    <services />
+    <behaviors>
+      <serviceBehaviors>
+        <behavior name="OptionContract.OptionBehavior">
+          <serviceMetadata httpGetEnabled="true" />
+          <serviceDebug includeExceptionDetailInFaults="true" />
+        </behavior>
+      </serviceBehaviors>
+    </behaviors>
+  </system.serviceModel>
+</configuration>

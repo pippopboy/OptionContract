@@ -1,0 +1,112 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:IOption.cs" caret="84" fromTop="3" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:Option.cs" caret="46" fromTop="2" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.designer.cs" caret="9902" fromTop="17" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Xml.cs" caret="4735" fromTop="29" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="1851" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:IOption.cs" caret="84" fromTop="3" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:Option.cs" caret="46" fromTop="2" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.designer.cs" caret="9902" fromTop="15" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.designer.cs" caret="9902" fromTop="17" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.designer.cs" caret="9902" fromTop="17" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="2336" fromTop="17" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="2501" fromTop="18" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="2644" fromTop="17" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="2996" fromTop="24" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="3921" fromTop="18" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="168" fromTop="5" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="318" fromTop="14" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Xml.cs" caret="128" fromTop="6" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="2996" fromTop="24" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="3048" fromTop="22" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="3881" fromTop="32" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="3375" fromTop="26" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="3330" fromTop="7" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Xml.cs" caret="1624" fromTop="14" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Xml.cs" caret="2497" fromTop="4" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Xml.cs" caret="3604" fromTop="21" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="3712" fromTop="17" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Xml.cs" caret="2926" fromTop="22" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="3542" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="txLocation" priority="3" />
+      <Item value="txtServiceContract1" priority="1" />
+      <Item value="txtServiceContract2" priority="0" />
+      <Item value="if" priority="5" />
+      <Item value="cbBinding" priority="3" />
+      <Item value="string" priority="2" />
+      <Item value="else" priority="4" />
+      <Item value="Message`0" priority="0" />
+      <Item value="MessageBox`0" priority="3" />
+      <Item value="cbServiceContract1" priority="1" />
+      <Item value="xmlDocument" priority="0" />
+      <Item value="XmlSerializerFormatAttribute`0" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="Hosting" priority="1" />
+      <Item value="Xml`0" priority="0" />
+      <Item value="xml" priority="4" />
+      <Item value="new" priority="1" />
+      <Item value="Xml" priority="0" />
+      <Item value="XmlDocument" priority="0" />
+      <Item value="doc" priority="3" />
+      <Item value="nameservice" priority="2" />
+      <Item value="cbServiceContract2" priority="1" />
+      <Item value="name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Text" priority="3" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Text" priority="0" />
+      <Item value="Checked" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Hosting.Xml">
+      <Item value="CreateXmlService`0" priority="0" />
+      <Item value="AddService`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="Save`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttribute">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
